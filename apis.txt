@@ -1,0 +1,16 @@
+https://github.com/public-apis/public-apis
+https://spoonacular.com/food-api/pricing
+https://www.themealdb.com/api.php?ref=apilist.fun
+https://superheroapi.com/?ref=apilist.fun
+https://github.com/public-apis/public-apis#finance
+https://kontests.net/api
+https://www.hackerearth.com/docs/wiki/developers/v4/
+https://ghost.org/
+https://cloud.ibm.com/docs/text-to-speech/getting-started.html
+https://kroki.io/
+https://www.domcop.com/openpagerank/
+https://oyyi.xyz/docs/1.0
+https://api-docs.pgamerx.com/
+https://serpstack.com/
+https://docs.bhagavadgitaapi.in/
+https://gita-api.vercel.app/docs

@@ -1,0 +1,5 @@
+1.Meme genrator
+2.Personal Bot for chatting 
+3.Real Time Chat Application
+4.Text To Speech (subscription based by IBM)
+5.Creates diagrams from textual descriptions! (subscription based)

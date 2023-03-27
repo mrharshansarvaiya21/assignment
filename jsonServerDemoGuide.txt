@@ -1,0 +1,8 @@
+-> npm i
+server.js
+db.json
+-> npm install json-server
+
+"scripts": { // <===    "start": "node index.js" // <===  },
+
+https://json-server-db-harshans279.herokuapp.com/users

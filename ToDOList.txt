@@ -1,0 +1,6 @@
+1) Completed my springboot - Angular project
+2) More on spring boot feature
+3) Interview quetions on springboot, angular
+4) complete my resume
+5) Revise Java, MySQL, DLSQL & MongoDB concept
+6) Revise some DSA concept

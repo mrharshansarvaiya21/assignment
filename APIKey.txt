@@ -1,0 +1,2 @@
+key :- 121895928d114f619db6a575c75d9041
+source :- newsapi.org

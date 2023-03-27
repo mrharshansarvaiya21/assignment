@@ -1,0 +1,26 @@
+1) Java,spring boot,Spring security,MySQL,Angular strong
+2) Learn hibernate
+2) Added security & add more func in project
+3) LLD, HLD
+4) DSA
+
+10,000 - 1,30,000
+
+////////////////////////////////////////////////////////////////////////////
+
+RSA 
+defihell man algo
+bit map
+C(confidentiality) I(Integirty) A(Availability) cia triad in cryptography
+whatsapp e2e encryption
+sso
+Auth2.0
+adhard card no encryption
+biomatric verification
+verify adhar card no
+Vault (how to securely store data)
+
+WSO2, kong
+API getway
+
+md5

@@ -1,0 +1,12 @@
+SELECT * FROM (SELECT * FROM Products
+order by price desc limit 3) order by price limit 1;
+
+/////////////////////////////////////////////////////////////////
+
+
+amazonS3Service.listObjects()
+amazonS3Service.getObject()
+amazonS3Service.putObject()
+amazonS3Service.listVersions()
+amazonS3Service.deleteObject()
+amazonS3Service.deleteVersion()
